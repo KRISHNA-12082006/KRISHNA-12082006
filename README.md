@@ -7,7 +7,7 @@
 A Computer Science student driven by curiosity, discipline, and a deep appreciation for the intersection of technology, history, and human progress. I enjoy building software that actually solves real problems — from intelligent web applications to data-driven systems — while staying rooted in a mindset of continuous learning. I also draw inspiration from ancient Indian texts whose hymns describe profound accounts of creation and cosmic order — insights that, in my view, point to truths far deeper than what modern science has uncovered so far.
 `<br>`
 
-### Website:  https://krishna-12082006.github.io/KRISHNA-12082006/
+### Website:  Coming soon...!
 
 ---
 
